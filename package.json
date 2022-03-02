@@ -1,0 +1,12 @@
+{
+  "name": "@reverecre/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Prettier config for Revere TypeScript projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RevereCRE/prettier-config.git"
+  },
+  "author": "Ryan Delaney <ryan@reverecre.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/RevereCRE/prettier-config#readme"
+}
