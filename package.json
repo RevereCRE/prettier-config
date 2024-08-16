@@ -1,6 +1,6 @@
 {
   "name": "@reverecre/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Shared Prettier config for Revere TypeScript projects",
   "repository": {
     "type": "git",
