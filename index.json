@@ -2,5 +2,6 @@
   "singleQuote": true,
   "bracketSpacing": true,
   "arrowParens": "always",
-  "proseWrap": "always"
+  "proseWrap": "always",
+  "trailingComma": "es5"
 }
